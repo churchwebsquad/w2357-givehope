@@ -27,6 +27,7 @@
   font-weight: 300;
   font-family: "Gotham Ultra";
   text-transform: uppercase;
+    color: white;
 }
 
 .nav-link:hover {
