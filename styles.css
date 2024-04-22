@@ -62,6 +62,7 @@
 
     .hamburger {
         display: flex;
+        color: white;
     }
 
   .nav-logo {
